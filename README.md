@@ -1,0 +1,2 @@
+# example
+Example for class
